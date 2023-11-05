@@ -38,6 +38,7 @@ const styles = StyleSheet.create({
     borderRadius: SIZES.medium,
   },
   applyBtnText: {
+    lineHeight: 55,
     fontSize: SIZES.medium,
     color: COLORS.white,
     fontFamily: FONT.bold,

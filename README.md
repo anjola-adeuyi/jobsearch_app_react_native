@@ -10,15 +10,21 @@ Inspiration from Javascript mastery and design by Michel Achkar [dribble](https:
   -
 ![App phone cover](./assets/images/cover-phone.png)
 
-
 **Design inspiration View on Dribble**
   -
 ![Design Inspiration dribble cover](./assets/images/dribble_jobsearch.png)
 
-**Mobile Application simulation and demo**
+**More screens previews**
   -
-![What demo on Youtube](https://www.youtube.com/shorts/E3fRQSWQW6U)
 
-**Mobile Application simulation and demo**
+1. 
   -
-<iframe width="560" height="315" src="https://www.youtube.com/shorts/E3fRQSWQW6U" frameborder="0" allowfullscreen></iframe>
+![Screen One](./assets/images/screen-one.png)
+
+2. 
+  -
+![Screen Two](./assets/images/screen-two.png)
+
+3.  
+  -
+![Screen Three](./assets/images/screen-three.png)
